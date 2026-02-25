@@ -30,6 +30,9 @@ Para mayor información sobre el proceso metodologico realizado en la digitaliza
 
 A la fecha continuamos trabajando en algunas limitaciones identificadas en está primera versión. Para mayor información y sugerencias no dude en enviarnos un correo a sadandelacruz@gmail.com
 
+## Cita
+
+De la Cruz (2026). Digitalización de barrios San José de Cúcuta (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18765372
 
 
 
