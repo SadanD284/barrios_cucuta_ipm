@@ -8,7 +8,8 @@ Hacemos uso de los datos del CNPV 2018 para calcular una aproximación de la pob
 
 ## Organización de carpetas
 
-**datasets:** archivos con diferentes formatos de los calculos realizados por barrios a partir de las capas digitalizadas. 
+**datasets:** archivos con diferentes formatos de los calculos realizados por barrios a partir de las capas digitalizadas.
+
 **shapefile:** arhivos de las capas digitalizadas de los barrios de San José de Cúcuta.  
 
 ### Variables incluidas en la tabla de atributos
@@ -16,8 +17,11 @@ Hacemos uso de los datos del CNPV 2018 para calcular una aproximación de la pob
 La capa incluye cuatro (4) columnas, se incluyen dos (2) dos variables como muestra analítica: 
 
 **id:** variable de identificación del barrio (no corresponde necesariamente a un orden preestablecido).
+
 **barrio:** nombre del barrio identificado en el POT.
+
 **poblacion_:** población total estimada para cada barrio con base en el CNPV 2018 (DANE).
+
 **ipm_ponder:** índice de pobreza multidimensional (IPM) ponderado por la población de cada barrio. 
 
 Para mayor información sobre el proceso metodologico realizado en la digitalización de las capas consultar el documento *Digitalización de Barrios de Cúcuta (metodología de construcción)*.
